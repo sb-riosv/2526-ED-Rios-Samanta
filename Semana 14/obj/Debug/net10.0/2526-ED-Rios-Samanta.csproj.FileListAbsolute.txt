@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\bin\Debug\net10.0\2526-ED-Rios-Samanta.exe
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\bin\Debug\net10.0\2526-ED-Rios-Samanta.deps.json
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\bin\Debug\net10.0\2526-ED-Rios-Samanta.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\bin\Debug\net10.0\2526-ED-Rios-Samanta.dll
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\bin\Debug\net10.0\2526-ED-Rios-Samanta.pdb
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\2526-ED-Rios-Samanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\2526-ED-Rios-Samanta.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\2526-ED-Rios-Samanta.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\2526-ED-Rios-Samanta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\2526-ED-Rios-Samanta.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\2526-ED-Rios-Samanta.dll
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\refint\2526-ED-Rios-Samanta.dll
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\2526-ED-Rios-Samanta.pdb
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\2526-ED-Rios-Samanta.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\2526-ED-Rios-Samanta\Semana 14\obj\Debug\net10.0\ref\2526-ED-Rios-Samanta.dll
